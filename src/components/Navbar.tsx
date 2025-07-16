@@ -28,7 +28,7 @@ export default function Navbar() {
     }
   }, [menuOpen]);
 
-  const handleScroll = (e: any, id: string) => {
+  const handleScroll = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
     e.preventDefault();
     const el = document.getElementById(id);
     if (el) {

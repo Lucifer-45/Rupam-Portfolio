@@ -21,7 +21,7 @@ export default function ContactSection() {
         </h2>
 
         <p className="text-lg text-gray-300 mb-10 leading-relaxed">
-          I'm always open to new opportunities, collaborations, or conversations around frontend development.
+          I`&lsquo;`m always open to new opportunities, collaborations, or conversations around frontend development.
           If you’re working on something exciting or just want to connect professionally, feel free to reach out.
         </p>
 
